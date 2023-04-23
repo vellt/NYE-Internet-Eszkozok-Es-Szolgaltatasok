@@ -23,7 +23,7 @@
             <a class="nav-link" href="index.php?oldal=profil">Profil oldal</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Felhasználók lista</a>
+            <a class="nav-link" href="index.php?oldal=felhasznalok">Felhasználók lista</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="index.php?kilepes">Kilépés</a>

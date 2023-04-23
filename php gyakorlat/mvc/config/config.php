@@ -67,7 +67,8 @@
 
   // védett oldalak
   $user_acl=[
-    'profil'
+    'profil',
+    'felhasznalok'
   ];
 
   // lehetne admin_acl-t
